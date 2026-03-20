@@ -4,7 +4,11 @@
     "ignore": [
       "firebase.json",
       ".firebase",
-      ".firebaserc"
+      ".firebaserc",
+      ".git/**",
+      ".git",
+      ".gitignore",
+      "node_modules"
     ],
     "headers": [
       {
