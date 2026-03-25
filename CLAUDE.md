@@ -11,7 +11,7 @@ wierk.com previously hosted Wierk SRL, a digital strategy consultancy now operat
 - Single `index.html` with inline CSS
 - Firebase Hosting (project: `wierk-site`)
 - Domain: wierk.com + www.wierk.com (DNS via GoDaddy)
-- Google Analytics: G-SX537QD8SR (shared with altnota.com)
+- Google Analytics: G-9SP0XX9J9N (shared with altnota.com)
 
 ## Deploying
 

@@ -3,3 +3,9 @@
 firebase-debug.log
 .DS_Store
 node_modules/
+
+# Claude Code (machine-specific)
+.claude/settings.local.json
+.claude/projects/
+.claude/todos/
+.claude/conversations/
